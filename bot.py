@@ -4,7 +4,7 @@ import requests
 import os
 import json, youtube_dl
 
-token = os.version['5389927031:AAEUaJ7ZzKgYHjyCSSDlTfmEm2ioKmdrI64'] #enter your unique telegram bot token
+token = os.version['YOUR TELEGRAM TOKEN'] #enter your unique telegram bot token
 
 #initializing the downloader
 
